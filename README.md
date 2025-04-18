@@ -1,1 +1,1 @@
-# FPGA-Accelerated-Retinex-Image-Enhancement-for-Low-Light-Conditions
+# FPGA-Accelerated Retinex Image Enhancement for Low-Light Conditions
