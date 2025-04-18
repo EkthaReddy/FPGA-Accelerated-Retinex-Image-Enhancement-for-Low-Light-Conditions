@@ -33,8 +33,7 @@ This project addresses the challenge of real-time image enhancement in low-light
 
 Conventional methods for low-light image enhancement, including Histogram Equalization and Gamma Correction, are computationally simple but often fail to preserve details or introduce visual artifacts. More advanced methods include:
 
-![image](https://github.com/user-attachments/assets/0d8531fa-a564-4c98-991d-1673b17a5323)
-
+![image](https://github.com/user-attachments/assets/380f4472-3a92-4f2a-adc0-929572b0ac5c)
 
 ---
 
